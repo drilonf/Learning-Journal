@@ -1,1 +1,31 @@
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+# Objectives
+Demonstrate familiarity with industry database tools and best practices for designing and setting up databases
+
+Explain fundamental SQL concepts, including the impact of changes in database systems on diverse data consumers.
+
+Demonstrate the application of schemas, metadata, and data modeling to ensure data reliability and sustainability, and to 
+mitigate data risks.
+
+Evaluate user and business needs to ensure the accuracy, completeness, consistency, timeliness, and accessibility of upstream data for downstream consumers, taking proactive 
+responsibility to solve issues.
+
+# Recap of pre-lecture material
+* Primary key, foreign key, composite key
+* Primary key identifies individual records
+* One-to-many relationships. eg customers to transactions, courses to modules
+* One-to-one relationships.
+* Schemas
+
+Lecture content
+* OLAP - business data warehouse. historical data
+* OLTP - business process. current data
+
+# Key Concepts
+
+# Questions
+
+# Self-Research
+
+# Reflections
