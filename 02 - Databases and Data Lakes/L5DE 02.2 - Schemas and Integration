@@ -18,9 +18,21 @@ responsibility to solve issues.
 * One-to-one relationships.
 * Schemas
 
-Lecture content
+# Lecture content
 * OLAP - business data warehouse. historical data
 * OLTP - business process. current data
+
+* Rows = tuples = records
+* Columns = fields = attributes
+
+* Star schema - points like a star
+** Fact table
+** Dimension tables
+** fast querying
+* Snowflake schema
+* useful when data integrity is crucial
+
+* normalisation
 
 # Key Concepts
 
